@@ -1,0 +1,6 @@
+{
+  "ext": "js jsx",
+  "watch": [
+    "./src/"
+  ]
+}
